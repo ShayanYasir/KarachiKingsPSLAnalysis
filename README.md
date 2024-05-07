@@ -1,4 +1,4 @@
-# KarachiKingsPSLAnalysis
+# Karachi Kings PSL Analysis: Logistic Regression and Principal Component Analysis
 
 [Please read the full paper here!](https://drive.google.com/file/d/1NXQ8tRFmDGiG3MsIlINiijWVbgEq9qqN/view?usp=sharing)
 
